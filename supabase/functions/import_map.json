@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "supabase-types": "../../src/types/supabase.ts",
+    "mux-client": "../../src/lib/clients/mux.ts"
+  }
+}

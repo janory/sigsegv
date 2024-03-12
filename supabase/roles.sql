@@ -1,0 +1,1 @@
+create role grafana_user;
